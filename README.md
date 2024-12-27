@@ -6,9 +6,9 @@
 
 The website used in this project is forked from the TWS Portfolio Repository. By using a pre-built portfolio template, the focus was on understanding and implementing:
 
-  - Point one Hosting static websites on AWS S3.
-  - Point two Automating deployments with GitHub Actions.
-  - Point three Configuring AWS S3 bucket policies for public access.
+  - Hosting static websites on AWS S3.
+  - Automating deployments with GitHub Actions.
+  - Configuring AWS S3 bucket policies for public access.
 
 ## Prerequisites
 
