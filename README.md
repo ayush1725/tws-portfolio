@@ -115,6 +115,6 @@ Once the deployment is complete, you can access your website via the S3 bucket's
 
 ## Live Website
 
-You can view the deployed website here: ([http://my-portfolio-website.s3-website-us-east-1.amazonaws.com](http://tws-junoon-bucket.s3-website.ap-south-1.amazonaws.com/))
+You can view the deployed website here: ([http://tws-junoon-bucket.s3-website-us-east-1.amazonaws.com](http://tws-junoon-bucket.s3-website.ap-south-1.amazonaws.com/))
 
 
